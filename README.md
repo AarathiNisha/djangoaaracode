@@ -26,4 +26,3 @@ Functionality:
 3. Comment creation and deletion.
 4. Search functionality.
 5. Pagination.
-6. RSS/Atom feed.
